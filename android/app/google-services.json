@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "400767097683",
+    "project_id": "brterra-3364c",
+    "storage_bucket": "brterra-3364c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400767097683:android:ec74ee1e376feabcf6dfa6",
+        "android_client_info": {
+          "package_name": "com.barterra.app.barterra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400767097683-h7ifnn1nn9pcv684sfr1215kkr4oqqj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_VshAh-S4UefhQaibwNNAeMbEBle_elY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400767097683-h7ifnn1nn9pcv684sfr1215kkr4oqqj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400767097683-mb7ta757f1qqtt25fk7g8ouqm83jh2mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barterra.app.barterra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
